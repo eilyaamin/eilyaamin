@@ -1,4 +1,4 @@
-# Hi I'm Eilya
+# Hi 👋, I'm Eilya
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] [<img height="30" src="https://img.shields.io/badge/-LinkedIn-blue" />][linkedin]
 
 
