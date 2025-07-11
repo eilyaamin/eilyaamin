@@ -2,7 +2,7 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] [<img height="30" src="https://img.shields.io/badge/-LinkedIn-blue" />][linkedin]
 
 
-## I'm a Software Engineer, Data Scientist and YouTuber
+## I'm a Software Engineer and Data Scientist
 
 - I create free educational content about programming
 - Just started with YouTube, looking forward to improve it and appreciate your support by heart ❤ [YouTube][youtube]
